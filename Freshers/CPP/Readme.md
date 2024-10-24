@@ -2,7 +2,7 @@
 
 [.. Previous Page](..)
 
-<div align="center"><img src="../cclogo.png" height="150"/></div>
+<div align="center"><img src="cpp.png" height="150"/></div>
 
 ## Classes held
 
