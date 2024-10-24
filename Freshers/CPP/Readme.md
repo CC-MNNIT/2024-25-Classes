@@ -6,7 +6,7 @@
 
 ## Classes held
 
-- [Class 1](Class_01)
+- [Class 1](CLASS_01)
 
 ## Contributor
 - Aryan Mishra
