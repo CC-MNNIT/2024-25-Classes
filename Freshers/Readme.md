@@ -7,6 +7,6 @@
 ## Classes held
 
 - [CPP classes](CPP)
-    - [CPP Class 1](CPP/Class_01)
+    - [CPP Class 1](CPP/CLASS_01)
 ## Contributor
 - Aryan Mishra
