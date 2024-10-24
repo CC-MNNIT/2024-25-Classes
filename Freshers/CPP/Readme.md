@@ -6,7 +6,7 @@
 
 ## Classes held
 
-- [C++ classes](C++)
-    - [C++ Class 1](CPP/Class_01)
+- [Class 1](Class_01)
+
 ## Contributor
 - Aryan Mishra
